@@ -1,2 +1,1 @@
-# ssh-overthewire-bandit
-SSH Learning Material - Overthewire Bandit Wargame
+# SSH Learning Material - Overthewire Bandit Wargame Notes
